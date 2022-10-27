@@ -1,13 +1,11 @@
-PRINCE: Predicting with Noises as Context for Knowledge Enhanced Pre-Training
+PRINCE: Prefix-Masked Decoding for Knowledge Enhanced Sequence-to-Sequence Pre-Training
 ===
-
 
 
 
 ## Introduction
 
-PRINCE: Predicting with Noises as Context for Knowledge Enhanced Pre-Training. EMNLP 2022.
-
+PRINCE: Prefix-Masked Decoding for Knowledge Enhanced Sequence-to-Sequence Pre-Training. EMNLP 2022.
 
 ## Dependencies
 
@@ -16,8 +14,7 @@ Currently we implement PRINCE based on Fairseq. The depencies are as follows:
 
 - Python version >= 3.6
 - PyTorch version >= 1.5.0
-- Fairseq version >= v0.10.2
-
+- Fairseq version >= 0.10.2
 
 
 
